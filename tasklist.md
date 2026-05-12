@@ -2,7 +2,7 @@ hommomachinus
 
 ## Roadmap: Deteksi Jerawat
 
-### [ ] **1. Persiapan Dataset & Konfigurasi Dasar**
+### [*] **1. Persiapan Dataset & Konfigurasi Dasar**
 
 Langkah awal untuk memastikan data siap dikonsumsi oleh model.
 
